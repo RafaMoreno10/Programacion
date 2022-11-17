@@ -8,16 +8,16 @@ Podeis encontrar el _Tema 1_ de Python, lo mas basico, hasta llegar a bucles
 
 ---
 
-[*TEMA 1:*][tema1]
+- ## [*TEMA 1:*][tema1]
 
   [-Boletin1][boletin1]
-  
+    _*Operaciones basicas*_
   [-Boletin2][boletin2]
-  
+    _*Expresiones lógicas*_
   [-Boletin3][boletin3]
-  
+    _*Estructura Condicionales*_
   [-Boletin4][boletin4]
-  
+  _*Operaciones y Condicionales*_
 
 
 
