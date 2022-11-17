@@ -18,6 +18,10 @@ Podeis encontrar el _Tema 1_ de Python, lo mas basico, hasta llegar a bucles
     _*Estructura Condicionales*_
   [-Boletin4][boletin4]
   _*Operaciones y Condicionales*_
+---
+Aqui os dejo mi [perfil][perfil] de GitHub.
+---
+![gif]
 
 
 
@@ -38,4 +42,6 @@ Podeis encontrar el _Tema 1_ de Python, lo mas basico, hasta llegar a bucles
 [boletin2]:https://github.com/RafaMoreno10/programacion_python2022/blob/master/Tema1_programacionEstructurada/Boletin2_expresionesLogicas.py
 [boletin3]:https://github.com/RafaMoreno10/programacion_python2022/blob/master/Tema1_programacionEstructurada/Boletin3_estructurasCondicionales.py
 [boletin4]:https://github.com/RafaMoreno10/programacion_python2022/blob/master/Tema1_programacionEstructurada/Boletin4_operacion_Y_condicionales.py
+[perfil]:https://github.com/RafaMoreno10
+[gif]:https://c.tenor.com/2aBpJJqQAvYAAAAM/monkey.gif
 
