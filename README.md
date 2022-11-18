@@ -1,7 +1,7 @@
 # _Programacion Pyhton_
 
 ---
-[gif2][gif2]
+![gif2][gif2]
 ## *Acabas de entrar a mi _repositorio_*
 
 Podeis encontrar el _Tema 1_ de Python, lo mas basico, hasta llegar a bucles
