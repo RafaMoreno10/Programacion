@@ -44,4 +44,4 @@ Aqui os dejo mi [perfil][perfil] de GitHub.
 [boletin4]:https://github.com/RafaMoreno10/programacion_python2022/blob/master/Tema1_programacionEstructurada/Boletin4_operacion_Y_condicionales.py
 [perfil]:https://github.com/RafaMoreno10
 [gif]:https://c.tenor.com/2aBpJJqQAvYAAAAM/monkey.gif
-[gif2]:https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fes%2Fver%2Fskippy-skippystare-ed-bassmaster-gif-12213109&psig=AOvVaw0R2HgpBcL_cYoI72W4KnMH&ust=1668816073959000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCNC5sri2tvsCFQAAAAAdAAAAABAI
+[gif2]:https://c.tenor.com/PqXSml4qJZkAAAAC/sabe-una-cosa-skippy.gif
