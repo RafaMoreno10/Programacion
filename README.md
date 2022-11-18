@@ -1,4 +1,4 @@
-<p align="center"> # _Programacion Pyhton_ </p>
+# _Programacion Pyhton_
 
 ---
 ![gif2][gif2]
