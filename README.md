@@ -1,8 +1,8 @@
 # _Programacion Pyhton_
 
 ---
-
-## *Este es mi repositorio*
+[gif2][gif2]
+## *Acabas de entrar a mi _repositorio_*
 
 Podeis encontrar el _Tema 1_ de Python, lo mas basico, hasta llegar a bucles
 
@@ -44,4 +44,4 @@ Aqui os dejo mi [perfil][perfil] de GitHub.
 [boletin4]:https://github.com/RafaMoreno10/programacion_python2022/blob/master/Tema1_programacionEstructurada/Boletin4_operacion_Y_condicionales.py
 [perfil]:https://github.com/RafaMoreno10
 [gif]:https://c.tenor.com/2aBpJJqQAvYAAAAM/monkey.gif
-
+[gif2]:https://media.tenor.com/PqXSml4qJZkAAAAM/sabe-una-cosa-skippy.gif
