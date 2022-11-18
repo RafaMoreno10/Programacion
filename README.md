@@ -21,7 +21,7 @@ Podeis encontrar el _Tema 1_ de Python, lo mas basico, hasta llegar a bucles
 ---
 Aqui os dejo mi [perfil][perfil] de GitHub.
 ---
-![gif]![gif3]![gif4]
+![gif]![gif3]![gif4]![gif%]
 
 
 
@@ -47,3 +47,4 @@ Aqui os dejo mi [perfil][perfil] de GitHub.
 [gif2]:https://c.tenor.com/PqXSml4qJZkAAAAC/sabe-una-cosa-skippy.gif
 [gif3]:https://media.tenor.com/cTX3SNDFgyEAAAAM/aaaa-monkey.gif
 [gif4]:https://media.tenor.com/wsChytFfrS4AAAAM/monki-flip-monkey.gif
+[gif5]:https://media.tenor.com/xsk6QW1SRgoAAAAM/monke-spin.gif
