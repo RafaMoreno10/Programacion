@@ -48,7 +48,7 @@ Podeis encontrar el _Tema 1 y 2_ de Python, lo mas basico, hasta llegar a bucles
 --- 
 Aqui os dejo mi [perfil][perfil] de GitHub.
 ---
-![gif3]![gif4]![gif5]
+
 
 
 
@@ -71,9 +71,6 @@ Aqui os dejo mi [perfil][perfil] de GitHub.
 [boletin4]:https://github.com/RafaMoreno10/programacion_python2022/blob/master/Tema1_programacionEstructurada/Boletin4_operacion_Y_condicionales.py
 [perfil]:https://github.com/RafaMoreno10
 [gif2]:https://c.tenor.com/PqXSml4qJZkAAAAC/sabe-una-cosa-skippy.gif
-[gif3]:https://media.tenor.com/cTX3SNDFgyEAAAAM/aaaa-monkey.gif
-[gif4]:https://media.tenor.com/wsChytFfrS4AAAAM/monki-flip-monkey.gif
-[gif5]:https://media.tenor.com/xsk6QW1SRgoAAAAM/monke-spin.gif
 [boletin5]:https://github.com/RafaMoreno10/programacion_python2022/tree/master/Tema1_programacionEstructurada/Boletin5_condicionalesExtras
 [boletin6]:https://github.com/RafaMoreno10/programacion_python2022/tree/master/Tema1_programacionEstructurada/Boletin6_bucles_ingles
 [boletin7]:https://github.com/RafaMoreno10/programacion_python2022/tree/master/Tema1_programacionEstructurada/Boletin7_bucles
