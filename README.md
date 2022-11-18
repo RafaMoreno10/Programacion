@@ -1,5 +1,6 @@
-# _Programacion Pyhton_
-
+<p align="center">
+  # _Programacion Pyhton_
+</p>
 ---
 ![gif2][gif2]
 ## *Acabas de entrar a mi _repositorio_*
