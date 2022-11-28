@@ -4,7 +4,7 @@
 ![gif2][gif2]
 ## *Acabas de entrar a mi _repositorio_*
 
-Podeis encontrar el _Tema 1 y 2_ de Python, lo mas basico, hasta llegar a bucles
+Podeis encontrar el _Tema 1 y 2_ de Python, lo mas basico, hasta llegar a bucles, funciones basicas y avanzadas. 
 
 ---
 
