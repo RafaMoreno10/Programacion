@@ -36,6 +36,9 @@ Podeis encontrar el _Tema 1 y 2_ de Python, lo mas basico, hasta llegar a bucles
   [-Boletin 1:][boletin1_2]
   _*Programacion Modular*_
   
+  [-Boletin 2:][boletin2_2]
+  _*Modular Programming*_
+  
 ---
 - ## [*PRUEBAS INDIVIDUALES:*][pruebas]
 
@@ -80,3 +83,4 @@ Aqui os dejo mi [perfil][perfil] de GitHub.
 [fibonacci]:https://github.com/RafaMoreno10/programacion_python2022/blob/master/PruebasIndividuales/fibonacci.py
 [prueba1]:https://github.com/RafaMoreno10/programacion_python2022/blob/master/PruebasIndividuales/Prueba_21oct.py
 [prueba2]:https://github.com/RafaMoreno10/programacion_python2022/blob/master/PruebasIndividuales/Prueba_4_oct.py
+[boletin2_2]:https://github.com/RafaMoreno10/Programacion/tree/Tema2/Tema2/Boletin_2_ModularProgramming
